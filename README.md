@@ -28,7 +28,7 @@ Its very easy to make this project work on your local system:
 	    [http]://localhost:[port number]/Your_App_Name/index.html
     
    5.Run on server.    
-Originaly it has been configured for Oracle 11g database. kindly change it as per your requirements. Do not forget to configure maven on your system and updating the .m2 folder.
+Originaly it has been configured for Oracle 11g database. Kindly change it as per your requirements. Do not forget to configure maven on your system and updating the .m2 folder.
 
 # Live Demo
 Please Visit <a href="https://factsbox.herokuapp.com">here </a>
