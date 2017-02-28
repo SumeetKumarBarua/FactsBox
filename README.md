@@ -25,7 +25,7 @@ Its very easy to make this project work on your local system:
    4.Change the URL setting(Properties.js) as per the URL configuration of the server you are using.
     
 	     Eg. If you use Tomcat then it would look something like this:
-	    [http]://localhost:[port number]/Your_App_Name/index.html
+	          [http]://localhost:[port number]/Your_App_Name/index.html
     
    5.Run on server.    
 Originaly it has been configured for Oracle 11g database. Kindly change it as per your requirements. Do not forget to configure maven on your system and updating the .m2 folder.
